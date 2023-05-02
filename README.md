@@ -3,7 +3,7 @@
 Creating,minting,burning own created coin on ethereum using solidity.
 
 
-Project Description
+# Project Description
 
 In this project we have used basic functions and variable that have thought throughout the different modules using solidity.The main goal of this project is to create your token on ethereum blockchain.And learn basic functions such as minting and burning the tokens and also writing conditional statements to reduce basic errors.
 Executing program
